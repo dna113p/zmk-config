@@ -1,5 +1,5 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: lily58_left 
+    shield: palmctrl_left 
   - board: seeeduino_xiao_ble
-    shield: lily58_right
+    shield: palmctrl_right
